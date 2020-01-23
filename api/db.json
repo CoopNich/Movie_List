@@ -1,0 +1,19 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Midsommar",
+            "yearReleased": 2019
+        },
+        {
+            "id": 2,
+            "title": "Parasite",
+            "yearReleased": 2019
+        },
+        {
+            "id": 3,
+            "title": "Lion King",
+            "yearReleased": 1994
+        }
+    ]
+}
